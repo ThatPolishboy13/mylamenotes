@@ -5,10 +5,11 @@
 *  [https://www.oreilly.com/]
 
 ## Coding Resources
-* freecodecamp.org
+* https://www.freecodecamp.org
 
 ## Online Subscription Training Resources
 * cybrary.it
+* https://app.pluralsight.com/library/
 
 ## Veterans Cyber and Coding Programs
 *  [https://veteransec.com/]
@@ -19,10 +20,11 @@
 * class.malware.re
 * malwareunicorn.org
 
-#Credit Resources
- Dave Ramsey
+## Financial Resources
+### Debt Management
+ * Dave Ramsey
  Gra
- 
+### Churning 
 https://www.doctorofcredit.com
 
 ## Incident Response
