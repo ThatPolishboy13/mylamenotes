@@ -20,16 +20,17 @@
 * malwareunicorn.org
 
 #Credit Resources
-Dave Ramsey
-Gra
+ Dave Ramsey
+ Gra
+ 
 https://www.doctorofcredit.com
 
+## Incident Response
+* first.org
 
 ## Go Through 
 
 
-
- 
 ISAC threat intel
-first.org
  [http://kctew.org/]
+
