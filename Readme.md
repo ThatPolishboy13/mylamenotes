@@ -7,14 +7,29 @@
 ## Coding Resources
 * freecodecamp.org
 
+## Online Subscription Training Resources
+* cybrary.it
+
 ## Veterans Cyber and Coding Programs
 *  [https://veteransec.com/]
 *  [https://operationcode.org/]
 
-## Malware analysis
+## Malware analysis / Revser Engineering
 *  https://www.malware-traffic-analysis.net/
-*
+* class.malware.re
+* malwareunicorn.org
+
 #Credit Resources
 Dave Ramsey
 Gra
 https://www.doctorofcredit.com
+
+
+## Go Through 
+
+
+
+ 
+ISAC threat intel
+first.org
+ [http://kctew.org/]
