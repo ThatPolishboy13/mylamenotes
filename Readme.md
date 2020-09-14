@@ -34,6 +34,10 @@
 *  [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 *  [CS6038/CS5138 Malware Analysis University of Cincinatti](class.malware.re)
 *  [Malyware Unicorn Workshops](malwareunicorn.org)
+*
+
+## Exploitation
+*
 
 ## Incident Response
 *  first.org
@@ -53,7 +57,7 @@
 * [](https://niccs.us-cert.gov/about-niccs/featured-stories/cybersecurity-education-and-training-opportunities-veterans)
 
 ## Professional Associations
-*  [](https://www.milcyber.org/)
+*  [Military Cyber Professionals Associates](https://www.milcyber.org/)
 
 ## Privacy 
  * [Privacy Tools](privacytools.io)
