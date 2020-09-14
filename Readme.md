@@ -1,9 +1,12 @@
 ### College is bleed money out of young people and their families to funnel into their buractracy. Everything here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
 
+## Free Professional College Resources
+* [Naval Postgraduate School Lab VM's for Training](https://nps.edu/web/c3o/labtainer-lab-summary1)
+
 ## Free Books online (Books)
 * [Springer Books Github Page](https://hnarayanan.github.io/springer-books)  
 * [O'Rielly Books](https://www.oreilly.com/) - Use your official military email.
-* What makes a page
+* What makes a page - Everything about windows
 
 ## Coding Resources
 *  [FreeCodeCamp](https://www.freecodecamp.org)
