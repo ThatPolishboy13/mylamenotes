@@ -3,10 +3,13 @@
 ## Free Books online (Books)
 * [Springer Books Github Page](https://hnarayanan.github.io/springer-books)  
 * [O'Rielly Books](https://www.oreilly.com/) - Use your official military email.
+* What makes a page
 
 ## Coding Resources
 *  [FreeCodeCamp](https://www.freecodecamp.org)
 *  [NASA Style Guides](https://ntrs.nasa.gov/citations/19950022400)
+* [Covert Utils Python Library to write Implants](https://github.com/operatorequals/covertutils)
+* [Reverse Engineering Video Gamea and Video Game Hacking](https://www.pwnadventure.com)
 
 ## Learning Markdown
 *  [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
