@@ -70,6 +70,17 @@
  * [Commando VM](https://www.fireeye.com/blog/threat-research/2019/03/commando-vm-windows-offensive-distribution.html?fbclid=IwAR2JG6oNf1qa8CEPIUJIFDuU7m3_iccOnYipg_7NEhC5T8W3zDmL29Ygk9g)
  * 
 
+## Conventions
+
+Announcing SO-CON 2020 – Nov 16 – 20, 2020
+AvengerCon
+DefCon
+BlackHat
+DOE CyberSomething
+
+https://noobsec.net/starting-point/
+
+https://www.offensive-security.com/labs/individual/
 
 ## Financial Resources
 
