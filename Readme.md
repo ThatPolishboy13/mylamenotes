@@ -53,6 +53,9 @@
 ## RMF Resources
 *  
 
+## IDS
+* [Scripts used for validating your IDS](https://github.com/0xtf/testmynids.org)
+
 ## Cloud
 * [AWS Veterans](https://aws.amazon.com/education/awseducate/veterans/)
 
@@ -72,17 +75,20 @@
 
 ## Conventions
 
-Announcing SO-CON 2020 – Nov 16 – 20, 2020
 AvengerCon
 DefCon
 BlackHat
 DOE CyberSomething
+* [SO-Con (Spector Ops](https://news.specterops.io/announcing-so-con-2020/)
+* [OSDFCON](https://www.osdfcon.org/) - Free for Military/Government
 
 https://noobsec.net/starting-point/
 
 https://www.offensive-security.com/labs/individual/
 
 ## Financial Resources
+
+## Navy Standard Letterhead Github
 
 ### Debt Management
  * [Dave Ramsey](https://www.daveramsey.com)
