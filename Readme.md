@@ -88,7 +88,8 @@ https://www.offensive-security.com/labs/individual/
 
 ## Financial Resources
 
-## Navy Standard Letterhead Github
+## Navy Standard Letterhead 
+* [Navy Letter format automation](https://marinecoders.github.io/_pages/naval_letter_js_test.html)
 
 ### Debt Management
  * [Dave Ramsey](https://www.daveramsey.com)
