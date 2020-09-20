@@ -71,7 +71,10 @@
  
  ## PreBuilt VMs
  * [Commando VM](https://www.fireeye.com/blog/threat-research/2019/03/commando-vm-windows-offensive-distribution.html?fbclid=IwAR2JG6oNf1qa8CEPIUJIFDuU7m3_iccOnYipg_7NEhC5T8W3zDmL29Ygk9g)
- * 
+ * [Kali Linux](https://www.kali.org)
+ 
+ ## CRYPTO
+ * [Dice Keys](https://dicekeys.com/?fbclid=IwAR3DDgvFk7eqdmU9rF8ImKESaIs0zq-AeH7_phL88Z4F5KQcjyfkI6lFGrs)
 
 ## Conventions
 
@@ -88,15 +91,14 @@ https://www.offensive-security.com/labs/individual/
 
 ## Financial Resources
 
-## Navy Standard Letterhead 
-* [Navy Letter format automation](https://marinecoders.github.io/_pages/naval_letter_js_test.html)
-
 ### Debt Management
  * [Dave Ramsey](https://www.daveramsey.com)
 
 ### Churning 
 * [Doctors of Credit](https://www.doctorofcredit.com)
 
+## Military Automation
+* [Marine Corp Standard Letterhead](https://marinecoders.github.io/_pages/naval_letter_js_test.html)
 
 ## Go Through 
 
