@@ -1,4 +1,4 @@
-### College is bleed money out of young people and their families to funnel into their buractracy. Everything here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
+## Most things here here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
 
 ## Army Promotion Points for Technical Certifications
 * [HRC Article explaing promotion points for Enlisted With Certifications for each Career Management Field (CMF)](https://www.hrc.army.mil/content/Technical%20Certification%20Matrixes)
