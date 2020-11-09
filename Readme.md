@@ -112,4 +112,31 @@ https://www.offensive-security.com/labs/individual/
 
 ISAC threat intel
  [http://kctew.org/]
-
+ 
+I provided some links that you might find interesting helping operationalize ATT&CK-based solutions:
+ 
+For optimized sysmon config:
+https://github.com/olafhartong/sysmon-modular
+ 
+Configuration for data shipping (various flavors of agents)
+https://github.com/miriamxyra/EventList
+ 
+Analytics geared toward advanced analytics leveraging sysmon and other data sources:
+Sigma(Check out free99 analytics focused on sysmon and other data sources:)
+https://github.com/Neo23x0/sigma
+ 
+More goodness:
+https://car.mitre.org/analytics/
+ 
+CARET (Visualizations - Check out Process 10 mapping to TTP's in the tab: [EXPLORE NETWORKS]
+https://mitre-attack.github.io/caret/#/
+ 
+DIY (Ranges for build your own purple team ex)
+splunk flavor(includes cladera):
+https://github.com/splunk/attack_range
+ 
+elastic and other open source flavor:
+https://github.com/hunters-forge/ThreatHunter-Playbook
+ 
+Cyber Foundry
+President't Cup
