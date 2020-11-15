@@ -141,3 +141,7 @@ https://github.com/hunters-forge/ThreatHunter-Playbook
  
 Cyber Foundry
 President't Cup
+
+https://objective-see.com/index.html
+
+https://sneak.berlin/20201112/your-computer-isnt-yours/
