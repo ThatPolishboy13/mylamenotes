@@ -133,7 +133,7 @@ ISAC threat intel
 Configuration for data shipping (various flavors of agents)
 https://github.com/miriamxyra/EventList
  
-
+[Verizons Annual Report](https://enterprise.verizon.com/resources/reports/dbir/)
 
 
 
