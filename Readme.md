@@ -43,6 +43,9 @@ You can earn Most CEUs from these sites.
  *  [Vererans Security](https://veteransec.com/)
  *  [Operation Code](https://operationcode.org/)
 
+## Veterans Affairs (VA) Sponsored Tech related training (VETTEC)
+ * [VetTec High Tech Program](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/)
+
 ## Networking
  *  [Paolo Alto Veterans Program](https://live.paloaltonetworks.com/t5/second-watch/ct-p/Veterans_Network)
  *  [Cisco Veteran Program](https://blogs.cisco.com/csr/cisco-offers-military-veterans-free-cybersecurity-training)
@@ -65,6 +68,8 @@ You can earn Most CEUs from these sites.
 
 ## CTF Events
  * [President't Cup - Executive Order 13870](https://www.cisa.gov/presidentscup)
+ * [All Army CyberStakes CTF](https://www.acictf.com)
+ *
 
 ## Incident Response
  *  first.org
