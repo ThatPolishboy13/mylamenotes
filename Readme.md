@@ -4,9 +4,15 @@
  * [HRC Article explaing promotion points for Enlisted With Certifications for each Career Management Field (CMF)](https://www.hrc.army.mil/content/Technical%20Certification%20Matrixes)
 
 ## Army Certification Tracking and Renewal
-Make sure you Apply for your Renewal or Voucher Yearly! There are email chains that go around with Last minute certification vouchers from Signal Warrant Officers.
+Make sure you Apply for your Renewal or Voucher Yearly! There are also email chains that go around with Last minute certification vouchers from Signal Warrant Officers.
  * [ATCTS Page](https://atc.us.army.mil/iastar/index.php)
  * [Army Publication NCO Journal](https://www.armyupress.army.mil/Journals/NCO-Journal/)
+ 
+## Army Online Cybersecurty Training Websites 
+You can earn Most CEUs from these sites.
+* [FedVTE](https://fedvte.usalearning.gov)
+* [Skillport](https://usarmy.skillport.com/skillportfe/custom/login/usarmy/login.action)
+* [DCITA](http://dcita.edu/)
 
 ## Free Professional College Resources
  * [Naval Postgraduate School Lab VM's for Training](https://nps.edu/web/c3o/labtainer-lab-summary1)
@@ -114,6 +120,7 @@ Make sure you Apply for your Renewal or Voucher Yearly! There are email chains t
  * [Noob Sec - Karan Bhayani](https://noobsec.net/starting-point/)
  * [Sneak - Jeffrey Paul](https://sneak.berlin/20201112/your-computer-isnt-yours/)
 
+## Slach and Discord Channels
 
 ## Financial Resources
 
@@ -127,6 +134,15 @@ Make sure you Apply for your Renewal or Voucher Yearly! There are email chains t
 * [Marine Corp Standard Letterhead](https://marinecoders.github.io/_pages/naval_letter_js_test.html)
 
 ## Go Through 
+
+# Frequent Asked Questions
+
+1. Where can I go to earn Continued Education Units/Credits (CEUs)?
+2. How do I get $$$ for my maintance fees?
+3. How can I add things to this list?
+4. Where did I find all of this information?
+5. Where can I go to learn more about Army Programs and conduct my own research?
+Milsuite, 
 
 ISAC threat intel
 [http://kctew.org/]
