@@ -49,6 +49,9 @@ You can earn Most CEUs from these sites.
 ## Networking
  *  [Paolo Alto Veterans Program](https://live.paloaltonetworks.com/t5/second-watch/ct-p/Veterans_Network)
  *  [Cisco Veteran Program](https://blogs.cisco.com/csr/cisco-offers-military-veterans-free-cybersecurity-training)
+ 
+ ### Network Defense/ Analysis
+ * [Cyber Defenders](https://cyberdefenders.org/labs/37)
 
 ## Windows
  * [Learner Experience Portal (LxP)](https://esi.microsoft.com) - Follow PDF instruction found [Here]()
@@ -69,7 +72,7 @@ You can earn Most CEUs from these sites.
 ## CTF Events
  * [President't Cup - Executive Order 13870](https://www.cisa.gov/presidentscup)
  * [All Army CyberStakes CTF](https://www.acictf.com)
- *
+
 
 ## Incident Response
  *  first.org
@@ -112,7 +115,11 @@ You can earn Most CEUs from these sites.
  
  ## CRYPTO
  * [Dice Keys](https://dicekeys.com/?fbclid=IwAR3DDgvFk7eqdmU9rF8ImKESaIs0zq-AeH7_phL88Z4F5KQcjyfkI6lFGrs)
-
+ 
+ ## SANS Index Maker
+ * [Voltaire](https://voltaire.publickey.io/)
+ 
+ 
 ## Conventions
  * [AvengerCon](https://avengercon.com/index.html) - Sponsored by 780th MI Brigade (Cyber) usually near Fort Meade, Maryland. Attendance is limited to those supporting US Cyber Command.
  * [DefCon](https://defcon.org)
