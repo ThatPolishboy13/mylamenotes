@@ -35,7 +35,10 @@ You can earn Most CEUs from these sites.
 ## Learning Markdown
  *  [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## Online Subscription Training Resources (Paid Resources)
+## Online Training Resources (Free!)
+* [Udemy](https://digitalu.udemy.com/) #Register using your .mil email account for free access
+
+## Online Training Platforms (Paid Resources)
 *  [Cybrary](cybrary.it)
 *  [PluralSight](https://app.pluralsight.com/library/)
 
