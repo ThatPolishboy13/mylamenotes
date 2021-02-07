@@ -166,5 +166,7 @@ https://github.com/miriamxyra/EventList
  
 [Verizons Annual Report](https://enterprise.verizon.com/resources/reports/dbir/)
 
+[Nenno's Resources](https://linktr.ee/thatcyberguy5)
+
 
 
