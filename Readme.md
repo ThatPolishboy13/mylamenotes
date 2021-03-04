@@ -22,7 +22,7 @@ You can earn Most CEUs from these sites.
 
 ## Free Books online (Books)
  * [Springer Books Github Page](https://hnarayanan.github.io/springer-books)  
- * [O'Rielly Books](https://www.oreilly.com/) - Use your official military email.
+ * [O'Reilly Books](https://www.oreilly.com/) - Use your official military email.
  * What makes a page - Everything about windows 
  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 
