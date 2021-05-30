@@ -1,25 +1,33 @@
-## Most things here here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
+Most things here here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
 
-# Army Promotions Points
 
+
+# US Army Resources
+
+### Promotions
+Who doesn't like a little bit of extra money to spend on the homelab? Get certified, get points, get paid. (National Guard cries looking for slots)
 Program Link| Program Description | Active Military | Veterans |
 | --- | --- | --- | --- |
 | Army Promotion Points for Technical Certifications | [HRC Article explaing promotion points for Enlisted With Certifications for each Career Management Field (CMF)](https://www.hrc.army.mil/content/Technical%20Certification%20Matrixes) | Yes | No |
 
 
-
-## Army Certification Tracking and Renewal
+### Army Certification Tracking and Renewal
 Make sure you Apply for your Renewal or Voucher Yearly! There are also email chains that go around with Last minute certification vouchers from Signal Warrant Officers. Do not use to renew your CompTIA certs, just take a higher level CompTIA test and all of you CEUs and fees renew. [Proof]()
 Program Link| Program Description | Active Military | Veterans |
 | --- | --- | --- | --- |
- * [ATCTS Page](https://atc.us.army.mil/iastar/index.php)
+| Army Technical Ceritification Tracking Something| [ATCTS Page](https://atc.us.army.mil/iastar/index.php)| Yes | No |
+
+
  * [Army Publication NCO Journal](https://www.armyupress.army.mil/Journals/NCO-Journal/)
  
 ## Army/Military Cybersecurty Training Websites 
 You can earn Most CEUs from these sites.
-* [FedVTE](https://fedvte.usalearning.gov)
-* [Skillport](https://usarmy.skillport.com/skillportfe/custom/login/usarmy/login.action)
-* [DCITA](http://dcita.edu/)
+Program Link| Program Description | Active Military | Veterans |
+| --- | --- | --- | --- |
+You can earn Most CEUs from these sites.
+| [FedVTE](https://fedvte.usalearning.gov) | DHS Training Yay! | Yes | Yes |
+| SKillport | [Skillport](https://usarmy.skillport.com/skillportfe/custom/login/usarmy/login.action) | Yes | IDK |
+| DC3 Cyber Training | [DCITA](http://dcita.edu/) | Yes | IDK |
 
 ## Free Professional College Resources
  * [Naval Postgraduate School Lab VM's for Training](https://nps.edu/web/c3o/labtainer-lab-summary1)
@@ -30,8 +38,10 @@ You can earn Most CEUs from these sites.
 
 # Veteran Resources
 For our former Active Military service members, there are still programs you can enroll in or find fellow veterans to help youi:
-
-## Veterans Cyber and Coding Programs
+Veterans Cyber and Coding Programs | 
+Program Link| Program Description | Active Military | Veterans |
+| --- |
+| --- | --- | --- | --- | 
  *  [Vererans Security](https://veteransec.com/)
  *  [Operation Code](https://operationcode.org/)
 
