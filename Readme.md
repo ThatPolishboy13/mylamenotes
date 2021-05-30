@@ -1,14 +1,21 @@
 ## Most things here here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
 
-## Army Promotion Points for Technical Certifications
- * [HRC Article explaing promotion points for Enlisted With Certifications for each Career Management Field (CMF)](https://www.hrc.army.mil/content/Technical%20Certification%20Matrixes)
+# Army Promotions Points
+
+Program Link| Program Description | Active Military | Veterans |
+| --- | --- | --- | --- |
+| Army Promotion Points for Technical Certifications | [HRC Article explaing promotion points for Enlisted With Certifications for each Career Management Field (CMF)](https://www.hrc.army.mil/content/Technical%20Certification%20Matrixes) | Yes | No |
+
+
 
 ## Army Certification Tracking and Renewal
-Make sure you Apply for your Renewal or Voucher Yearly! There are also email chains that go around with Last minute certification vouchers from Signal Warrant Officers.
+Make sure you Apply for your Renewal or Voucher Yearly! There are also email chains that go around with Last minute certification vouchers from Signal Warrant Officers. Do not use to renew your CompTIA certs, just take a higher level CompTIA test and all of you CEUs and fees renew. [Proof]()
+Program Link| Program Description | Active Military | Veterans |
+| --- | --- | --- | --- |
  * [ATCTS Page](https://atc.us.army.mil/iastar/index.php)
  * [Army Publication NCO Journal](https://www.armyupress.army.mil/Journals/NCO-Journal/)
  
-## Army Online Cybersecurty Training Websites 
+## Army/Military Cybersecurty Training Websites 
 You can earn Most CEUs from these sites.
 * [FedVTE](https://fedvte.usalearning.gov)
 * [Skillport](https://usarmy.skillport.com/skillportfe/custom/login/usarmy/login.action)
@@ -17,9 +24,21 @@ You can earn Most CEUs from these sites.
 ## Free Professional College Resources
  * [Naval Postgraduate School Lab VM's for Training](https://nps.edu/web/c3o/labtainer-lab-summary1)
  
-## Department of Defense Projects
+## Defense Future Technologires
 * [Defense Innovation](https://innovatedefense.net)
 
+
+# Veteran Resources
+For our former Active Military service members, there are still programs you can enroll in or find fellow veterans to help youi:
+
+## Veterans Cyber and Coding Programs
+ *  [Vererans Security](https://veteransec.com/)
+ *  [Operation Code](https://operationcode.org/)
+
+## Veterans Affairs (VA) Sponsored Tech related training (VETTEC)
+ * [VetTec High Tech Program](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/)
+
+# As we get further down in this list, it starts to stray away from Military specific resources and into more commercial environemnts.  
 ## Free Books online (Books)
  * [Springer Books Github Page](https://hnarayanan.github.io/springer-books)  
  * [O'Reilly Books](https://www.oreilly.com/) - Use your official military email.
@@ -42,12 +61,7 @@ You can earn Most CEUs from these sites.
 *  [Cybrary](cybrary.it)
 *  [PluralSight](https://app.pluralsight.com/library/)
 
-## Veterans Cyber and Coding Programs
- *  [Vererans Security](https://veteransec.com/)
- *  [Operation Code](https://operationcode.org/)
 
-## Veterans Affairs (VA) Sponsored Tech related training (VETTEC)
- * [VetTec High Tech Program](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/)
 
 ## Networking
  *  [Paolo Alto Veterans Program](https://live.paloaltonetworks.com/t5/second-watch/ct-p/Veterans_Network)
@@ -76,10 +90,8 @@ You can earn Most CEUs from these sites.
  * [President't Cup - Executive Order 13870](https://www.cisa.gov/presidentscup)
  * [All Army CyberStakes CTF](https://www.acictf.com)
 
-
 ## Incident Response
  *  first.org
- * [Splunk Veteran Training](https://workplus.splunk.com/veterans) - Last I checked you have 30 days from the state date to pass the test
  * [CARET (Visualizations - Check out Process 10 mapping to TTP's in the tab)](https://mitre-attack.github.io/caret/#/)
  * [MITRE Analytics Goodness](https://car.mitre.org/analytics/)
  * [Sigma](https://github.com/Neo23x0/sigma)
@@ -166,6 +178,9 @@ https://github.com/miriamxyra/EventList
  
 [Verizons Annual Report](https://enterprise.verizon.com/resources/reports/dbir/)
 
+[My Army Benefits](https://myarmybenefits.us.army.mil)- A breakdown of almost ALL federeal benefits and an awesome state-by-state benefits guide. 
+
+## Shameless Self Plug from Cory
 [Nenno's Resources](https://linktr.ee/thatcyberguy5)
 
 
