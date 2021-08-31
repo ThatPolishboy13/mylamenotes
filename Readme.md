@@ -1,5 +1,12 @@
 ## Most things here here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
 
+## Your Active Duty and Vereran Communities
+Discord: 
+* [VETCON](https://vetconactual.com/)
+* [Avengercon](https://avengercon.com/)
+Slack:
+* [VetSec](https://veteransec.com/slack/) 
+
 ## Army Promotion Points for Technical Certifications
  * [HRC Article explaing promotion points for Enlisted With Certifications for each Career Management Field (CMF)](https://www.hrc.army.mil/content/Technical%20Certification%20Matrixes)
 
@@ -168,5 +175,5 @@ https://github.com/miriamxyra/EventList
 
 [Nenno's Resources](https://linktr.ee/thatcyberguy5)
 
-
+[A really awesome Evernote](https://www.evernote.com/shard/s702/client/snv?noteGuid=6427530c-d2ec-3445-be7d-6f6ff99b6ce7&noteKey=8ef2dc51fb3463fd21f7b68debff64f1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs702%2Fsh%2F6427530c-d2ec-3445-be7d-6f6ff99b6ce7%2F8ef2dc51fb3463fd21f7b68debff64f1&title=Military%2BBenefits%2Band%2BFreebies)
 
