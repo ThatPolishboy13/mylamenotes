@@ -1,5 +1,7 @@
 ## Care Packages
 
+[All Credit to the initial source that I found on the VetCon Discord Channel](https://www.evernote.com/shard/s702/client/snv?noteGuid=6427530c-d2ec-3445-be7d-6f6ff99b6ce7&noteKey=8ef2dc51fb3463fd21f7b68debff64f1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs702%2Fsh%2F6427530c-d2ec-3445-be7d-6f6ff99b6ce7%2F8ef2dc51fb3463fd21f7b68debff64f1&title=Military%2BBenefits%2Band%2BFreebies)
+
 | Name & URL | Description |
 | --- | --- |
 | [Adopt a Soldier](https://www.americasadoptasoldier.org/deployed-soldiers.html) | Free care packages for military members with APO / APE addresses |
@@ -278,3 +280,5 @@
 | [Valor IT](https://soldiersangels.org/Valour-IT.html) | Free voice-controlled / adaptive laptops and other technology to support veterans with disabilities | 
 | [Veterans Airlift Command](https://www.veteransairlift.org/) | Free air transportation for combat wounded military, veterans, and their families for medical and other compassionate purposes
 | [Veterans Vocational Rehabilitation programs](https://www.va.gov/careers-employment/vocational-rehabilitation/programs) | Free vocational training if you have at least 10% disability. All training programs covered, including pilot.
+
+
