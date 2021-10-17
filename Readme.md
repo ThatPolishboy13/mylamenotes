@@ -1,6 +1,4 @@
-## Most things here here is free to US Military Service Members and Veterans so please don't spend your money on going to school. You can be successful if you put in the work and show the world your value.
-
-## Your Active Duty and Vereran Communities
+## Your Active Duty and Veteran Communities
 Discord: 
 * [VETCON](https://vetconactual.com/)
 * [Avengercon](https://avengercon.com/)
