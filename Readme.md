@@ -281,4 +281,9 @@
 | [Veterans Airlift Command](https://www.veteransairlift.org/) | Free air transportation for combat wounded military, veterans, and their families for medical and other compassionate purposes
 | [Veterans Vocational Rehabilitation programs](https://www.va.gov/careers-employment/vocational-rehabilitation/programs) | Free vocational training if you have at least 10% disability. All training programs covered, including pilot.
 
+## Newspapers
+| Name & URL | Description |
+| --- | --- |
+| [Washington Post](https://helpcenter.washingtonpost.com/hc/en-us/articles/115007248227-Start-a-free-subscription-with-a-valid-gov-or-mil-email-address) | No more paywall!
+
 
